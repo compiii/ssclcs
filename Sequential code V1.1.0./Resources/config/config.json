@@ -1,0 +1,51 @@
+{
+    "software" : {
+        "soft-version" : "1",
+        "soft-name": "SSCLCS",
+        "soft-datecreate" : "29 JUNE 2019",
+        "soft-devname" : "Jerry Lacmou",
+        "soft-devmail" : "jerrylacmou@gmail.com",
+        "soft-devphone" : "(+237) 656463663",
+        "soft-dirname" : "SSCLCS_Compiii_v1/",
+        "soft-pathname" : "/home/compiii/Workspace/C/Master_Work/SSCLCS/"
+    },
+    "datasets" : {
+        "datasets-dir" : "resources/datasets/",
+        "datasets-type" : "dna/",
+        "datasets-dirname" : "NC_002516.2/",
+        "datasets-filename" : "NC_002516.2",
+        "datasets-extension" : ".fasta",
+        "datasets-symbols-filename" : "symbols",
+        "datasets-symbols-extension" : ".alpha",
+        "datasets-max-size-sequence" : "100030",
+        "datasets-max-size-constraint" : "5040",
+        "datasets-max-number-constraint" : "20",
+        "datasets-input" : {
+            "datasets-input-id" : "_1/",
+            "datasets-input-max-fragmentation" : "0",
+            "datasets-input-max-size-sequence" : "128",
+            "datasets-input-offset-sequence" : "54000",
+            "datasets-input-max-size-constraint" : "32",
+            "datasets-input-max-number-constraint" : "1",
+            "datasets-input-offset-constraint" : "1520",
+            "datasets-input-algorithm" : "0"
+        },
+        "datasets-create" : {
+            "datasets-create-id" : "_4/",
+            "datasets-create-offset-first-sequence" : "12000",
+            "datasets-create-offset-second-sequence" : "100000",
+            "datasets-create-offset-constraint-min" : "30000",
+            "datasets-create-offset-constraint-max" : "50000"
+        }
+    },
+    "logger" : {
+        "logger-dirname" : "logs/",
+        "logger-filename" : "SSCLCS.log"
+    },
+    "output" : {
+        "output-dirname" : "output/",
+        "output-dirname-secondary" : "secondary/",
+        "output-filename" : "stat_process_",
+        "output-extension" : ".csv"
+    }
+}
