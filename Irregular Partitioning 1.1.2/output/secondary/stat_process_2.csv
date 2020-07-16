@@ -1,0 +1,3 @@
+max-process;rank;max-size-sequence;max-size-constraint;max-number-constraint;max-fragmentation;total-time;calcul-time;com-time;idleness-time;calcul-rate;com-rate;idleness-rate;nb-message-exchange;size-data-com;size-data-com-in-mb;ssclcs;
+4;2;512;32;8;1;0.434574;0.095890;0.332619;0.006064;22.065342;76.539198;1.395460;0;0;0.000000;0;
+4;2;512;32;8;2;0.430190;0.110686;0.317736;0.001767;25.729521;73.859637;0.410843;0;0;0.000000;0;
